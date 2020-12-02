@@ -1,0 +1,20 @@
+{
+	  "symbol": "SHO",
+	  "address": "0x8a9c7ca96f27fbef20136c5b2f4e3305feb2a6cb",
+	  "overview":{
+	        "en": "Swift Horse (SHO) is the platform token of the Pony Run. Holding SHO tokens can enjoy the dividend rights, voting rights, and governance rights in the Pony Run ecosystem. In the future, SHO will be used as NFT tokens with high value.",
+	        "zh": "Swift Horse(SHO)千里马是Pony Run游戏平台的生态代币，持有SHO代币可以享受Pony Run游戏生态内的分红权、投票上线权益、挖矿分红权、治理权等，未来千里马SHO作为同质化代币，具有极大的收藏价值。"
+	  },
+	  "email": "ponyrun.finance@gmail.com",
+	  "website": "https://ponyrun.finance/#/",
+	  "published_on": "2020-10-22",
+	  "initial_price":{
+	        "ETH":"",
+	        "USD":"",
+	        "BTC":""
+	  },
+	  "links": {
+	    "twitter": "https://twitter.com/PonyRun1",
+	    "github": "https://github.com/ponyrun1"
+	  }
+	}
